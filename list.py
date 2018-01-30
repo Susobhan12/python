@@ -17,3 +17,14 @@ TypeError: slice indices must be integers or None or have an __index__ method
 >>> list[1:2:1]
 [2]
 >>> 
+'i' in 'susobhan'
+False
+>>> 2 in list
+True
+>>> 's' in 'susobhan'
+True
+>>> name=input("Are u going?")
+Are u going?yes
+>>> name
+'yes'
+>>> exit
